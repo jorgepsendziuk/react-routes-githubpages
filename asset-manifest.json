@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-routes-githubpages/static/css/main.f855e6bc.css",
+    "main.js": "/react-routes-githubpages/static/js/main.6278118f.js",
+    "static/js/453.4b1f6b37.chunk.js": "/react-routes-githubpages/static/js/453.4b1f6b37.chunk.js",
+    "static/media/logo.svg": "/react-routes-githubpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-routes-githubpages/index.html",
+    "main.f855e6bc.css.map": "/react-routes-githubpages/static/css/main.f855e6bc.css.map",
+    "main.6278118f.js.map": "/react-routes-githubpages/static/js/main.6278118f.js.map",
+    "453.4b1f6b37.chunk.js.map": "/react-routes-githubpages/static/js/453.4b1f6b37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6278118f.js"
+  ]
+}
